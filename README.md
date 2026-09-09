@@ -1,8 +1,7 @@
-<h1 align="center">Shashank R.</h1>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=18140f&height=140&section=header&text=Shashank%20R.&fontColor=f59e0b&fontSize=48&fontAlignY=40" width="100%" alt="Shashank R.">
 
 <p align="center">
-  <b>AI / ML Engineer</b><br>
-  I build AI systems that have to work outside the notebook.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=F59E0B&background=00000000&center=true&vCenter=true&width=560&lines=AI+%2F+ML+Engineer;RAG+%2B+Agentic+Systems;Model+Evaluation+%26+Inference" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -14,7 +13,11 @@
   </a>
 </p>
 
----
+<p align="center">
+  <sub>I build AI systems that have to work outside the notebook.</sub>
+</p>
+
+<br>
 
 ### About
 
@@ -26,7 +29,7 @@ infrastructure. A lot of the work is less about training a model from scratch an
 about making the entire system behave reliably: latency, evaluation, deployment, failure
 cases, and everything around the model.
 
----
+<br>
 
 ### Selected work
 
@@ -38,7 +41,7 @@ cases, and everything around the model.
 | **[VoxLens](https://github.com/shashank123r/VoxLens)** | Real time voice and vision assistant. Speak, show your camera, hear a response, all under two seconds with no local GPU. |
 | **[living-algorithms](https://github.com/shashank123r/living-algorithms)** | Algorithms as digital organisms. Program logic mutates, crosses over, and self repairs across generations. |
 
----
+<br>
 
 ### Stack
 
@@ -56,10 +59,17 @@ cases, and everything around the model.
 ![TypeScript](https://img.shields.io/badge/TypeScript-18140f?style=flat-square&logo=typescript&logoColor=f59e0b)
 ![React](https://img.shields.io/badge/React-18140f?style=flat-square&logo=react&logoColor=f59e0b)
 
----
+<br>
 
-<div align="center">
+### GitHub activity
 
-<img src="https://streak-stats.demolab.com/?user=shashank123r&hide_border=true&disable_animations=true&background=18140f&stroke=f59e0b&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&sideLabels=c9c3ba&currStreakNum=eae5ec&sideNums=eae5ec&dates=8a8072" alt="GitHub streak">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shashank123r&theme=custom&bg_color=18140f&text_color=eae5ec&icon_color=f59e0b&border_color=2b241c" alt="Profile summary" width="49%">
+  <img src="https://streak-stats.demolab.com/?user=shashank123r&hide_border=true&disable_animations=true&background=18140f&stroke=f59e0b&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&sideLabels=c9c3ba&currStreakNum=eae5ec&sideNums=eae5ec&dates=8a8072" alt="GitHub streak" width="49%">
+</p>
 
-</div>
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shashank123r&color=f59e0b&style=flat-square&label=Profile+views" alt="Profile views">
+</p>
