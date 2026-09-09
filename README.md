@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=18140f&height=140&section=header&text=Shashank%20R.&fontColor=f59e0b&fontSize=48&fontAlignY=40" width="100%" alt="Shashank R.">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=18140f&height=140&section=header&text=Shashank%20R.&fontColor=f59e0b&fontSize=48&fontAlignY=40&animation=false" width="100%" alt="Shashank R.">
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=F59E0B&background=00000000&center=true&vCenter=true&width=560&lines=AI+%2F+ML+Engineer;RAG+%2B+Agentic+Systems;Model+Evaluation+%26+Inference" alt="Typing SVG">
