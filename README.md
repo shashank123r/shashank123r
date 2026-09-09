@@ -1,23 +1,22 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=18140f&height=140&section=header&text=Shashank%20R.&fontColor=f59e0b&fontSize=48&fontAlignY=40&animation=false" width="100%" alt="Shashank R.">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Shashank%20R.&fontColor=E6EDF3&fontSize=44&desc=AI%20%2F%20ML%20Engineer&descAlignY=75&descSize=18&descColor=58A6FF&animation=false">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Shashank%20R.&fontColor=1F2328&fontSize=44&desc=AI%20%2F%20ML%20Engineer&descAlignY=75&descSize=18&descColor=0969DA&animation=false" width="100%" alt="Shashank R. — AI / ML Engineer">
+</picture>
 
-<p align="center">
-  <b>AI / ML Engineer</b> &nbsp;·&nbsp; RAG + Agentic Systems &nbsp;·&nbsp; Model Evaluation &amp; Inference
-</p>
-
-<p align="center">
-  <a href="https://3d-portfolio-pi-bay.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-f59e0b?style=for-the-badge&logo=vercel&logoColor=18140f" alt="Portfolio">
-  </a>
-  <a href="mailto:shashank.r2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-18140f?style=for-the-badge&logo=gmail&logoColor=f59e0b" alt="Email">
-  </a>
-</p>
-
-<p align="center">
+<p>
   <sub>I build AI systems that have to work outside the notebook.</sub>
 </p>
 
-<br>
+<p>
+  <a href="https://3d-portfolio-pi-bay.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-24292f?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="mailto:shashank.r2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-24292f?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+---
 
 ### About
 
@@ -29,47 +28,56 @@ infrastructure. A lot of the work is less about training a model from scratch an
 about making the entire system behave reliably: latency, evaluation, deployment, failure
 cases, and everything around the model.
 
-<br>
-
 ### Selected work
 
-| Project | What it is |
-| :--- | :--- |
-| **[CapForge](https://github.com/shashank123r/capforge)** | Policy-as-Code for AI agents. Signed capability manifests that encode identity, permitted actions, and constraints, verified at runtime in microseconds. |
-| **[Model Genome](https://github.com/shashank123r/model-xray)** | Behavioral model intelligence and causal testing for LLMs. Gates every model update before it ships. |
-| **[Enterprise Agentic RAG](https://github.com/shashank123r/Enterprise-Agentic-RAG)** | Production RAG platform: Milvus vector search with a pgvector fallback, async Python, JWT/RBAC auth, NVIDIA NIM embeddings, React frontend. |
-| **[VoxLens](https://github.com/shashank123r/VoxLens)** | Real time voice and vision assistant. Speak, show your camera, hear a response, all under two seconds with no local GPU. |
-| **[living-algorithms](https://github.com/shashank123r/living-algorithms)** | Algorithms as digital organisms. Program logic mutates, crosses over, and self repairs across generations. |
-
-<br>
+<table>
+<tr>
+<td width="200"><b><a href="https://github.com/shashank123r/capforge">CapForge</a></b></td>
+<td>Policy-as-Code for AI agents. Signed capability manifests that encode identity, permitted actions, and constraints, verified at runtime in microseconds.</td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/shashank123r/model-xray">Model Genome</a></b></td>
+<td>Behavioral model intelligence and causal testing for LLMs. Gates every model update before it ships.</td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/shashank123r/Enterprise-Agentic-RAG">Enterprise Agentic RAG</a></b></td>
+<td>Production RAG platform: Milvus vector search with a pgvector fallback, async Python, JWT/RBAC auth, NVIDIA NIM embeddings, React frontend.</td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/shashank123r/VoxLens">VoxLens</a></b></td>
+<td>Real time voice and vision assistant. Speak, show your camera, hear a response, all under two seconds with no local GPU.</td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/shashank123r/living-algorithms">living-algorithms</a></b></td>
+<td>Algorithms as digital organisms. Program logic mutates, crosses over, and self repairs across generations.</td>
+</tr>
+</table>
 
 ### Stack
 
-![Python](https://img.shields.io/badge/Python-18140f?style=flat-square&logo=python&logoColor=f59e0b)
-![FastAPI](https://img.shields.io/badge/FastAPI-18140f?style=flat-square&logo=fastapi&logoColor=f59e0b)
-![PyTorch](https://img.shields.io/badge/PyTorch-18140f?style=flat-square&logo=pytorch&logoColor=f59e0b)
-![LangGraph](https://img.shields.io/badge/LangGraph-18140f?style=flat-square&logo=langchain&logoColor=f59e0b)
-![NVIDIA](https://img.shields.io/badge/CUDA%20%2F%20vLLM-18140f?style=flat-square&logo=nvidia&logoColor=f59e0b)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,fastapi,pytorch,postgres,redis,docker,ts,react,git&theme=dark">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,postgres,redis,docker,ts,react,git&theme=light" alt="Skills">
+</picture>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18140f?style=flat-square&logo=postgresql&logoColor=f59e0b)
-![Milvus](https://img.shields.io/badge/Milvus-18140f?style=flat-square&logo=milvus&logoColor=f59e0b)
-![Redis](https://img.shields.io/badge/Redis-18140f?style=flat-square&logo=redis&logoColor=f59e0b)
-![Docker](https://img.shields.io/badge/Docker-18140f?style=flat-square&logo=docker&logoColor=f59e0b)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-18140f?style=flat-square&logo=typescript&logoColor=f59e0b)
-![React](https://img.shields.io/badge/React-18140f?style=flat-square&logo=react&logoColor=f59e0b)
-
-<br>
+<p>
+  <img src="https://img.shields.io/badge/LangGraph-24292f?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph">
+  <img src="https://img.shields.io/badge/Milvus-24292f?style=flat-square&logo=milvus&logoColor=white" alt="Milvus">
+  <img src="https://img.shields.io/badge/CUDA%20%2F%20vLLM-24292f?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA / vLLM">
+</p>
 
 ### GitHub activity
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shashank123r&theme=custom&bg_color=18140f&text_color=eae5ec&icon_color=f59e0b&border_color=2b241c" alt="Profile summary" width="49%">
-  <img src="https://streak-stats.demolab.com/?user=shashank123r&hide_border=true&disable_animations=true&background=18140f&stroke=f59e0b&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&sideLabels=c9c3ba&currStreakNum=eae5ec&sideNums=eae5ec&dates=8a8072" alt="GitHub streak" width="49%">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shashank123r&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shashank123r&theme=default" width="49%" alt="Profile summary">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=shashank123r&hide_border=true&disable_animations=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E">
+  <img src="https://streak-stats.demolab.com/?user=shashank123r&hide_border=true&disable_animations=true&background=FFFFFF&stroke=D0D7DE&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=57606A&currStreakNum=1F2328&sideNums=1F2328&dates=57606A" width="49%" alt="GitHub streak">
+</picture>
 
 <br>
+<br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shashank123r&color=f59e0b&style=flat-square&label=Profile+views" alt="Profile views">
-</p>
+<img src="https://komarev.com/ghpvc/?username=shashank123r&color=24292f&style=flat-square&label=Profile+views" alt="Profile views">
