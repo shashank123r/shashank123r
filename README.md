@@ -60,7 +60,6 @@ cases, and everything around the model.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shashank123r&show_icons=true&hide_border=true&title_color=f59e0b&icon_color=f59e0b&text_color=c9c3ba&bg_color=18140f" alt="GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank123r&layout=compact&hide_border=true&title_color=f59e0b&text_color=c9c3ba&bg_color=18140f" alt="Top languages">
+<img src="https://streak-stats.demolab.com/?user=shashank123r&hide_border=true&background=18140f&stroke=f59e0b&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&sideLabels=c9c3ba&currStreakNum=eae5ec&sideNums=eae5ec&dates=8a8072" alt="GitHub streak">
 
 </div>
