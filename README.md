@@ -56,8 +56,8 @@ cases, and everything around the model.
 ### Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,fastapi,pytorch,postgres,redis,docker,ts,react,git&theme=dark">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,postgres,redis,docker,ts,react,git&theme=light" alt="Skills">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cfastapi%2Cpytorch%2Cpostgres%2Credis%2Cdocker%2Cts%2Creact%2Cgit&theme=dark">
+  <img src="https://skillicons.dev/icons?i=python%2Cfastapi%2Cpytorch%2Cpostgres%2Credis%2Cdocker%2Cts%2Creact%2Cgit&theme=light" alt="Skills">
 </picture>
 
 <p>
