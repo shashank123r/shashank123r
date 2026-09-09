@@ -8,7 +8,7 @@
 </p>
 
 <p>
-  <a href="https://3d-portfolio-pi-bay.vercel.app">
+  <a href="https://shashankr-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-24292f?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
   <a href="mailto:shashank.r2005@gmail.com">
