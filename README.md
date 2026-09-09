@@ -60,6 +60,6 @@ cases, and everything around the model.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=shashank123r&hide_border=true&background=18140f&stroke=f59e0b&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&sideLabels=c9c3ba&currStreakNum=eae5ec&sideNums=eae5ec&dates=8a8072" alt="GitHub streak">
+<img src="https://streak-stats.demolab.com/?user=shashank123r&hide_border=true&disable_animations=true&background=18140f&stroke=f59e0b&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&sideLabels=c9c3ba&currStreakNum=eae5ec&sideNums=eae5ec&dates=8a8072" alt="GitHub streak">
 
 </div>
